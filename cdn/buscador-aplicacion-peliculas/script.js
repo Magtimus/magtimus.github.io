@@ -1,4 +1,4 @@
-//BUSCADOR DE CONTENUDO
+/*//BUSCADOR DE CONTENUDO
 
 
 //declarando variables
@@ -42,4 +42,4 @@ function buscador_interno() {
             li[i].style.display = "none";
         }
     }
-}
+}*/
